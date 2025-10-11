@@ -1,16 +1,45 @@
-<h1 align="center">Hi 👋, I'm Shifalee Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, I'm **Shifalee Khan**  
+🚀 **AWS DevOps Engineer | 3.2 Years of Experience | Cloud & Automation Enthusiast**
 
-- 🔭 I’m currently working as **Frontend Developer at Intellect Design Arena**
+---
 
-- 🌱 I’m currently learning **Nodejs, Express, MongoDB**
+### 👩‍💻 About Me  
+- 💼 Currently working at **Intellect Design Arena**  
+- ☁️ Experienced in **AWS Services, CI/CD Pipelines, and Infrastructure Automation**  
+- 🐳 Skilled in **Docker, Kubernetes, Jenkins, GitHub Actions, and Terraform**  
+- 🔁 Passionate about **Automation, Monitoring, and Continuous Delivery**  
+- 💬 Ask me about **AWS, CI/CD, Infrastructure as Code, and Containerization**  
+- 🌱 Constantly learning **Serverless, Prometheus, Grafana & EKS**  
+- 🤝 Open to collaborating on **Cloud and DevOps Projects**
 
-- 👯 I’m interested in **Fullstack development**
+---
 
-- 🤝 I’m looking to contribute on **Frontend Projects**
+### ⚙️ Tech Stack & Tools  
+| Cloud | DevOps | Monitoring | Version Control |
+|:------|:--------|:-------------|:----------------|
+| AWS (EC2, S3, RDS, Lambda, EKS, CloudWatch) | Docker, Kubernetes, Jenkins | Prometheus, Grafana, CloudWatch | Git, GitHub, GitLab |
+| Terraform, CloudFormation | GitHub Actions, CI/CD Pipelines | ELK Stack | CI/CD Automation |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shifalee-khan-b289501b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifalee-khan-b289501b3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaifalee27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaifalee27" height="30" width="40" /></a>
-</p>
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shifalee&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shifalee&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Achievements  
+- 🧩 Designed and deployed scalable infrastructure on AWS  
+- ⚙️ Automated CI/CD pipelines reducing deployment time by 40%  
+- ☁️ Managed multi-environment infrastructure with Terraform  
+- 🔒 Implemented secure IAM policies and automated backups  
+- 📈 Improved system reliability with proactive monitoring tools  
+
+---
+
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ShifaleeKhan-blue?logo=linkedin)](https://www.linkedin.com/in/shifaleekhan/)
+
+---
+
+⭐ _“Passionate about building reliable, scalable, and automated cloud systems.”_
